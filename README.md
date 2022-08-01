@@ -4,12 +4,13 @@ Este repositorio contiene una seria de cuadernos elaborados en Jupyter Notebook 
 para procesar y reutilizar datos de diversas fuentes públicas en El Salvador.
 
 ## Cuadernos de la colección
-Hasta la fecha (2022-07-31), se tienen cuadernos de:
--Promedio de días de no actualización de datos y documentos de cada grupo de instituciones públicas
+Hasta la fecha (2022-08-01), se tienen cuadernos de:
+- Calcular promedio de días de no actualización de datos y documentos de cada grupo de instituciones públicas
+- Guardar en un archivo CSV la lista de funcionarios de las instituciones públicas
 
 ## Librerías utilizadas
-Hasta la fecha (2022-07-31), se dan algunos ejemplos del uso de las librerías:
--Pandas
--Requests
--urllib
--Matplotlib
+Hasta la fecha (2022-08-01), se dan algunos ejemplos del uso de las librerías:
+- Pandas
+- Requests
+- urllib
+- Matplotlib
